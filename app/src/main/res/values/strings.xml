@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="btSignIn">SIGN IN</string>
+    <string name="btRegister">REGISTER</string>
+    <string name="tName">Name </string>
+    <string name="tEmail">E-mail</string>
+    <string name="tPassword">Password </string>
+    <string name="tRePassword">Re - Password</string>
+    <string name="tNew">New to Todo App?</string>
+    <string name="tNewRegister">Register</string>
+    <string name="tRegister">Register</string>
+    <string name="txname">Enter Name</string>
+    <string name="txemail">Enter E-mail</string>
+    <string name="txpassword">Enter Password</string>
+    <string name="txrepassword">Enter Re-Password</string>
+    <string name="label2">Successfully Login!</string>
+    <string name="lWelcome">Welcome in Todo App</string>
+    <string name="lRegist">REGISTER</string>
+    <string name="lWelcome2">Welcome, </string>
+    <string name="WelcomeName">Name</string>
+    <string name="mSubmit">Submit</string>
+    <string name="mLogout">Logout</string>
+    <string name="lTask">TASK</string>
+    <string name="txTask">Enter Task</string>
+    <string name="lKind">Kind of Task</string>
+    <string name="txKind">Enter Kind of Task</string>
+    <string name="lTime">Time of Task</string>
+    <string name="txTime">Enter Time of Task</string>
+
+
+</resources>
